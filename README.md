@@ -1,3 +1,2 @@
-Программа для смены MAC адресов у сетевых интерфейсов на Linux. Для использования, запустите скрипт, введите имя нужного интерфейса, а затем желаемый МАС.
-Было успешно протестированно на Kali Linux.
+Program for changing mac addresses of network interfaces in linux. To use, run the script (py or sh), enter the name of the network interface and the desired mac address. Has been successfully tested on Kali Linux.
 
